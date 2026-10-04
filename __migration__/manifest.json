@@ -1,0 +1,62 @@
+{
+  "AirBNB_NYC_DA": {
+    "bundle_sha256": "5b9e652068cd5055db960916cb7ff311cfd05cca7cf0055e68443fca6ec50c33",
+    "head": "c93937a2246b576f629a9170964abe57be9013b8",
+    "metadata_sha256": "beab927b7efc091129382106072fb95593cc930cd581b89e98731df683a6fd98",
+    "refs": {
+      "refs/heads/main": "c93937a2246b576f629a9170964abe57be9013b8"
+    },
+    "remote_refs": {
+      "refs/heads/main": "c93937a2246b576f629a9170964abe57be9013b8"
+    },
+    "tree": "bed4ab9034761ea5cb1c06bd440c21215b2dffa2"
+  },
+  "Amazon-DA": {
+    "bundle_sha256": "fd1653589400c42520b78f5c2f5eb147132cc0ce74349a966c5e9069894287a4",
+    "head": "09711fecc99314e4e5b2644b87590d00ea89231f",
+    "metadata_sha256": "2fac5170762430f7ab9b9b4ea68f4f58888cf3903bb79b879b2879546bd4d178",
+    "refs": {
+      "refs/heads/master": "09711fecc99314e4e5b2644b87590d00ea89231f"
+    },
+    "remote_refs": {
+      "refs/heads/master": "09711fecc99314e4e5b2644b87590d00ea89231f"
+    },
+    "tree": "f8556227abc1691ffa35d1c6de33239420eb654e"
+  },
+  "Spotify-DA": {
+    "bundle_sha256": "67f24d4338f164cbbe96c35c5e9e80f886863832b92e81af0cba6819d1367858",
+    "head": "41aa100d873496d759a6e050dbbd12f1277c1b9c",
+    "metadata_sha256": "a74f27a06d4439de7ad3db95db22242a8adc7eb4be6f6ac7f53d4369ee9455af",
+    "refs": {
+      "refs/heads/main": "41aa100d873496d759a6e050dbbd12f1277c1b9c"
+    },
+    "remote_refs": {
+      "refs/heads/main": "41aa100d873496d759a6e050dbbd12f1277c1b9c"
+    },
+    "tree": "da11d6869b222fc58b1cd59233d90bd495b1ea02"
+  },
+  "WorkUaScraper": {
+    "bundle_sha256": "171c2f3ad2c6e2689035acb03c6895f4cc32ece8bc8f63f0aec6d5d69ab46d50",
+    "head": "8f4cbb6f5dd2c6f8808f8b1468caac3ec8c13ba0",
+    "metadata_sha256": "f4fcb4bbd8841c4635e05c9e3ef5368e36e644796b9b6685ed45fd6d950cb34e",
+    "refs": {
+      "refs/heads/main": "8f4cbb6f5dd2c6f8808f8b1468caac3ec8c13ba0"
+    },
+    "remote_refs": {
+      "refs/heads/main": "8f4cbb6f5dd2c6f8808f8b1468caac3ec8c13ba0"
+    },
+    "tree": "2512ad17e85dc54765f1fe0ceec6a04097422d2b"
+  },
+  "ZNO-Database": {
+    "bundle_sha256": "216054da4d98a646d15bfa8910b0c888206cff03f943e5e707ac40910c11504b",
+    "head": "9e87a97e5899e67d1177b502a2154f278bc0d74e",
+    "metadata_sha256": "26df80cfe557d124c4411e4944ba4e8f6be95ee048b3d1e1c8ede582dfbd1a38",
+    "refs": {
+      "refs/heads/main": "9e87a97e5899e67d1177b502a2154f278bc0d74e"
+    },
+    "remote_refs": {
+      "refs/heads/main": "9e87a97e5899e67d1177b502a2154f278bc0d74e"
+    },
+    "tree": "dc0f39427bd397fcf49111185f2acccc419cc316"
+  }
+}
