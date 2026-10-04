@@ -1,0 +1,59 @@
+{
+  "name": "Legacy GitHub repository migration",
+  "image": "mcr.microsoft.com/devcontainers/universal:linux",
+  "customizations": {
+    "codespaces": {
+      "disableAutomaticConfiguration": true,
+      "repositories": {
+        "Skerr1Q/AirBNB_NYC_DA": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/Amazon-DA": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/Spotify-DA": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/ZNO-Database": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/WorkUaScraper": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/DBIS-Course": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/Intro-To-Databases": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/Optimization-Methods-Course-Project": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/NQueens": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/SudokuSolver": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/IdleGame": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/ShortMovies": {
+          "permissions": "read-all"
+        },
+        "Skerr1Q/OldDAProject": {
+          "permissions": {
+            "contents": "write",
+            "workflows": "write"
+          }
+        },
+        "Skerr1Q/OldSchoolProject": {
+          "permissions": {
+            "contents": "write",
+            "workflows": "write"
+          }
+        }
+      }
+    }
+  }
+}
